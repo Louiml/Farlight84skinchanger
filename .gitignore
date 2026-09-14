@@ -13,6 +13,7 @@ x64/
 .env
 
 *.md
+!README.md
 
 skinmap.json
 backup_originals/
