@@ -29,7 +29,7 @@ Injection into the game itself is off the table while those two drivers are load
 
 ## Legal
 
-Skin changers break the game's terms of service. If you point any of this at an online game, use a throwaway account and accept the ban risk. The repository is research tooling for reading game files that sit on your own disk.
+"Skin changers break the game's terms of service. If you point any of this at an online game, use a throwaway account and accept the ban risk. The repository is research tooling for reading game files that sit on your own disk."
 
 ## Credits
 
