@@ -1,0 +1,13 @@
+{
+    "menu_key": 33,
+    "hero_enabled": true,
+    "weapon_enabled": true,
+    "vehicle_enabled": true,
+    "hero_skins": {},
+    "weapon_skins": {},
+    "vehicle_skins": {},
+    "offsets": {
+        "swapchain": "0x0",
+        "apply_skin": "0x0"
+    }
+}
