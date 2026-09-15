@@ -1,6 +1,6 @@
 # Farlight Skin Changer
 
-A skin changer for Farlight 84, and the tooling built while trying to build one. The short version: the game ships two kernel anti-cheat drivers (Lilith LLH and NetEase NEP), and they block every route into the game process. Tested normal injection, elevated injection, and injection timed at process start. All denied, for admin accounts too. So the work moved to the game's own files on disk, and this repo is the result.
+A skin changer for Farlight 84, Tested normal injection, elevated injection, and injection timed at process start. for admin accounts too.
 
 ## What's in here
 
